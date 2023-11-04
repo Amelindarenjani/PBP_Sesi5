@@ -1,0 +1,11 @@
+{
+  "name": "sesi-5",
+  "version": "1.0.0",
+  "description": "Untuk memenuhi tugas Pemrograman Berbasis Platform sesi kelima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amelinda Renjani",
+  "license": "ISC"
+}
